@@ -1,5 +1,7 @@
 # react-native-md5-file
 
+## ANDROID IMPLEMENTATION TODO!
+
 ## Getting started
 
 `$ npm install react-native-md5-file --save`

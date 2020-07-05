@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucatk/react-native-md5-file.git",
-    "baseUrl": "https://github.com/lucatk/react-native-md5-file"
+    "url": "git+https://github.com/wherr-dev/react-native-md5-file.git",
+    "baseUrl": "https://github.com/wherr-dev/react-native-md5-file"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
     "name": "lucatk",
-    "email": "lucakillmaier@lu-co.de"
+    "email": "mail@lucakillmaier.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
